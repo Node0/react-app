@@ -26,6 +26,5 @@
   ],
   "optionalDependencies": {
     "fsevents": "^2.3.2"
-  },
-	"homepage" : "http://localhost:8080/build"
+  }
 }
